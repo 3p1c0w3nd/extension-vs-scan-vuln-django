@@ -1,0 +1,7 @@
+yo code
+❯ New Extension (TypeScript)
+❯ Extension name: mi-extension-cursor
+❯ Identifier: mi-extension-cursor
+❯ Use TypeScript: Yes
+
+vsce package
